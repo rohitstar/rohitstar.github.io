@@ -573,6 +573,8 @@ dl dd a:hover {
 .active {
     background-color: #4CAF50;
 }
-.art{
-	background:url(../images/sky.jpg) 0 no-repeat; 
+.new-1{
+	background:url(../images/new-2.png) 0 0 no-repeat;
+	width: 200px;
+	height: 100px;
 }
